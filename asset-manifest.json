@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-03-book-search/static/js/main.0a8f2421.chunk.js",
+    "main.js.map": "/goit-react-hw-03-book-search/static/js/main.0a8f2421.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-03-book-search/static/js/runtime~main.5d5bdee0.js",
+    "runtime~main.js.map": "/goit-react-hw-03-book-search/static/js/runtime~main.5d5bdee0.js.map",
+    "static/js/2.75cfac44.chunk.js": "/goit-react-hw-03-book-search/static/js/2.75cfac44.chunk.js",
+    "static/js/2.75cfac44.chunk.js.map": "/goit-react-hw-03-book-search/static/js/2.75cfac44.chunk.js.map",
+    "index.html": "/goit-react-hw-03-book-search/index.html",
+    "precache-manifest.dfa0ce5d3ddbf0949af7fcff83d2957e.js": "/goit-react-hw-03-book-search/precache-manifest.dfa0ce5d3ddbf0949af7fcff83d2957e.js",
+    "service-worker.js": "/goit-react-hw-03-book-search/service-worker.js"
+  }
+}
